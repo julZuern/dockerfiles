@@ -1,3 +1,4 @@
+#FROM phusion/baseimage
 FROM ubuntu:18.04       
 MAINTAINER openHPI team <openhpi-info@hpi.de>   
 
